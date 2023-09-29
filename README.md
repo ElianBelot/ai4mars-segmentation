@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#"><img src="https://i.ibb.co/RDwV3cH/image.png"></a>
-  <h3 align="center">Mars rover terrain classification</h3>
+  <h3 align="center">Mars Terrain Classification</h3>
   <p align="center">Image segmentation on the AI4MARS dataset using ResNet50 and PyTorch Lightning.</p>
 </p>
 
