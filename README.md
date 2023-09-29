@@ -2,8 +2,8 @@
 <br />
 <p align="center">
   <a href="#"><img src="https://i.ibb.co/RDwV3cH/image.png"></a>
-  <h3 align="center">Terrain Classification for Mars Rovers</h3>
-  <p align="center">Exploring terrain classification on Mars through semantic segmentation using deep learning models.</p>
+  <h3 align="center">Mars rover terrain classification</h3>
+  <p align="center">Image segmentation on the AI4MARS dataset using ResNet50 and PyTorch Lightning.</p>
 </p>
 
 <!--- Introduction --><br />
