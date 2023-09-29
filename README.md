@@ -12,14 +12,12 @@
 This project focuses on the problem of terrain classification for Mars rovers. This task is essential for future autonomous rover missions, as it can help rovers navigate safely and efficiently on the Martian surface. We used a dataset consisting of 35K images from Curiosity, Opportunity, and Spirit rovers with semantic segmentation labels collected through crowdsourcing. The dataset also includes 1.5K test labels annotated by the rover planners and scientists from NASA's MSL (Mars Science Laboratory) and MER (Mars Exploration Rovers) missions.
 
 
-![The Mars Curiosity Rover](assets/Untitled.png)
-
-
 <!--- Dataset --><br />
 ## Dataset
 
 The dataset we used for training and validating the terrain classification model was created specifically for this purpose. It contains approximately 326K semantic segmentation full image labels on 35K images taken by the Curiosity, Opportunity, and Spirit rovers. Each image in the dataset was labeled by 10 different people to ensure high quality and agreement of the crowdsourced labels.
 
+![An original MSL NAVCAM image along with a high rated AI4MARS label](assets/Untitled%201.png)
 
 <!--- Model --><br />
 ## Model
